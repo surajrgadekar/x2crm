@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57400" started-at="2019-07-15T11:49:32Z" finished-at="2019-07-15T11:50:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57400" started-at="2019-07-15T11:49:32Z" finished-at="2019-07-15T11:50:29Z">
+      <class name="com.qa.x2crm.test.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="setup" is-config="true" duration-ms="7905" started-at="2019-07-15T11:49:32Z" finished-at="2019-07-15T11:49:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTitleTest()[pri:1, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="loginTitleTest" duration-ms="16" started-at="2019-07-15T11:49:40Z" finished-at="2019-07-15T11:49:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="tearDown" is-config="true" duration-ms="639" started-at="2019-07-15T11:49:40Z" finished-at="2019-07-15T11:49:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="setup" is-config="true" duration-ms="6295" started-at="2019-07-15T11:49:41Z" finished-at="2019-07-15T11:49:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLogoTest()[pri:2, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="verifyLogoTest" duration-ms="86" started-at="2019-07-15T11:49:47Z" finished-at="2019-07-15T11:49:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="tearDown" is-config="true" duration-ms="641" started-at="2019-07-15T11:49:47Z" finished-at="2019-07-15T11:49:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="setup" is-config="true" duration-ms="5457" started-at="2019-07-15T11:49:48Z" finished-at="2019-07-15T11:49:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyLoginTest()[pri:3, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="VerifyLoginTest" duration-ms="276" started-at="2019-07-15T11:49:53Z" finished-at="2019-07-15T11:49:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="tearDown" is-config="true" duration-ms="666" started-at="2019-07-15T11:49:53Z" finished-at="2019-07-15T11:49:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="setup" is-config="true" duration-ms="5117" started-at="2019-07-15T11:49:55Z" finished-at="2019-07-15T11:50:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginPageDataTest(java.lang.String, java.lang.String)[pri:4, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="LoginPageDataTest" duration-ms="261" started-at="2019-07-15T11:50:00Z" data-provider="loginDataProvider" finished-at="2019-07-15T11:50:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageDataTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="tearDown" is-config="true" duration-ms="675" started-at="2019-07-15T11:50:00Z" finished-at="2019-07-15T11:50:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="setup" is-config="true" duration-ms="6303" started-at="2019-07-15T11:50:01Z" finished-at="2019-07-15T11:50:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginPageDataTest(java.lang.String, java.lang.String)[pri:4, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="LoginPageDataTest" duration-ms="253" started-at="2019-07-15T11:50:07Z" data-provider="loginDataProvider" finished-at="2019-07-15T11:50:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[passwe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageDataTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="tearDown" is-config="true" duration-ms="641" started-at="2019-07-15T11:50:07Z" finished-at="2019-07-15T11:50:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="setup" is-config="true" duration-ms="5326" started-at="2019-07-15T11:50:08Z" finished-at="2019-07-15T11:50:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="InvalidUserNameTest()[pri:5, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="InvalidUserNameTest" duration-ms="1408" started-at="2019-07-15T11:50:13Z" finished-at="2019-07-15T11:50:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidUserNameTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="tearDown" is-config="true" duration-ms="627" started-at="2019-07-15T11:50:15Z" finished-at="2019-07-15T11:50:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="setup" is-config="true" duration-ms="5181" started-at="2019-07-15T11:50:15Z" finished-at="2019-07-15T11:50:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="InvalidpasswordNameTest()[pri:6, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="InvalidpasswordNameTest" duration-ms="1528" started-at="2019-07-15T11:50:20Z" finished-at="2019-07-15T11:50:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidpasswordNameTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="tearDown" is-config="true" duration-ms="617" started-at="2019-07-15T11:50:22Z" finished-at="2019-07-15T11:50:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="setup" is-config="true" duration-ms="5134" started-at="2019-07-15T11:50:23Z" finished-at="2019-07-15T11:50:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="blankuserpasswordTest()[pri:7, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="blankuserpasswordTest" duration-ms="947" started-at="2019-07-15T11:50:28Z" finished-at="2019-07-15T11:50:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blankuserpasswordTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.x2crm.test.LoginPageTest@1ac631b]" name="tearDown" is-config="true" duration-ms="657" started-at="2019-07-15T11:50:29Z" finished-at="2019-07-15T11:50:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.x2crm.test.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
